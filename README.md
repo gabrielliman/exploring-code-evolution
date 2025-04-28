@@ -76,11 +76,13 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: https://github.com/keras-team/keras
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: "Lines of Code (LOC)" e "Python files"
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: No gráfico "Lines of Code (LOC)", observa-se uma forte expansão no início do histórico analisado, principalmente entre 2020 e 2021, quando o número de linhas de código praticamente quintuplicou, ultrapassando 200 mil linhas. Esse crescimento inicial provavelmente reflete a adição de novas funcionalidades, expansão de módulos e possíveis refatorações importantes. Entre 2021 e 2023, o projeto continuou crescendo, atingindo seu pico em 2023, com aproximadamente 300 mil linhas de código. A partir de 2024, nota-se uma queda significativa no número de linhas, o que pode ser explicado por limpezas de código, remoção de módulos obsoletos, ou processos de refatoração para tornar o repositório mais eficiente e modularizado. Em 2025, há uma leve recuperação, indicando que o projeto continua sendo ativamente desenvolvido, mas talvez agora de forma mais controlada.
+Já no gráfico "Python files", a evolução é mais estável. Desde 2020, há um crescimento contínuo na quantidade de arquivos .py, refletindo a expansão do projeto em termos de número de componentes, testes ou utilitários. Mesmo em 2024, ano em que o número de linhas caiu no gráfico anterior, o número de arquivos se manteve praticamente estável. Isso sugere que a diminuição de linhas de código foi mais relacionada a otimizações internas do que à eliminação de funcionalidades inteiras. Em 2025, o número de arquivos cresce novamente, indicando a criação de novos módulos ou separação de lógicas em arquivos menores, o que é uma prática recomendada para facilitar a manutenção e a escalabilidade do projeto.
+Em resumo, os gráficos mostram que o projeto Keras teve uma fase inicial de rápido crescimento, seguida por uma fase de otimização e maturidade, alinhando-se com boas práticas de desenvolvimento em projetos de grande escala.
 
 
 
